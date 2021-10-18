@@ -1,0 +1,23 @@
+{
+  "name": "cviceni-npmjs-galerie",
+  "version": "1.0.0",
+  "description": "Za úkol máš nakódovat design podle grafického návrhu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lendulka/Cviceni-Npmjs-galerie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lendulka/Cviceni-Npmjs-galerie/issues"
+  },
+  "homepage": "https://github.com/Lendulka/Cviceni-Npmjs-galerie#readme",
+  "dependencies": {
+    "@appnest/masonry-layout": "^2.0.8",
+    "fslightbox": "^3.3.0-2"
+  }
+}
